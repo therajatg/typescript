@@ -132,3 +132,20 @@ export const DeviceList: FC = React.memo(() => {
 //no api to know the enable disbale status of device.
 
 //
+
+
+
+
+//dummy.css
+
+// .header-cell {
+//   background-color: #a6e1ec;
+//   font-size: 25px;
+//   font-weight: bold;
+//   text-align: center;
+// }
+// .quarters-cell {
+//   background-color: #5bc0de;
+//   font-weight: bold;
+// }
+
